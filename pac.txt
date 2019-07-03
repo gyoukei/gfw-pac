@@ -4,7 +4,14 @@
 var proxy = "__PROXY__";
 
 var rules = [
-  "|http://85.17.73.31/",
+  "analdin.com",
+  "hotmovs.com",
+  "txxx.com",
+  "colliderporn.com",
+  "24porn.com",
+  "largeporntube.com",
+  "zzztube.com",
+  "porn.biz",
   "||www5.javmost.com/",
   "avmoo",
   "||www.sehuatang.net/",
@@ -20,6 +27,11 @@ var rules = [
   "nastypornpics",
   "youx.xxx",
   ".privateblack.com",
+  "stocking-tease.com",
+  "redporn.xxx",
+  "foxporns.com",
+  "onlybestporn.com",
+  "shahuwang.com",
   "||agnesb.fr",
   "||akiba-web.com",
   "||altrec.com",
